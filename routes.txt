@@ -1,0 +1,8 @@
+Bucuresti Ploiesti Campina Comarnic Sinaia Busteni Azuga Predeal Brasov
+38 22 11 14 9 5 10 35
+Bucuresti Lehliu Ciulnita Fetesti Medgidia Constanta
+46 21 24 22 16 23
+Bucuresti Ploiesti Brasov Alba-Iulia Deva Arad
+36 100 310 38 135
+Bucuresti Ploiesti Mizil Buzau Ramnicu-Sarat Focsani Adjud Bacau Roman Iasi
+48 41 34 28 42 50 43 38 100

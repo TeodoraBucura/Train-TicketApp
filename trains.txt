@@ -1,0 +1,10 @@
+0 IR1630 4 Bucuresti 9:00
+0 IR1631 4 Brasov 9:12
+0 IRN472 6 Bucuresti 16:34
+0 IR5332 4 Brasov 12:15
+1 IR4010 4 Bucuresti 10:00
+1 IR4002 6 Constanta 11:45
+2 IR7600 7 Bucuresti 7:20
+2 IRN002 8 Arad 4:23
+3 IR4300 6 Bucuresti 10:40
+3 EN7801 8 Iasi 9:25
